@@ -1,11 +1,11 @@
 {
   "tool": "rx-nominations",
-  "issuedAt": "2026-09-15T12:47:53.848Z",
-  "expiresAt": "2027-09-15T12:47:53.848Z",
+  "issuedAt": "2026-09-15T13:16:40.324Z",
+  "expiresAt": "2027-09-15T13:16:40.324Z",
   "devices": [
     {
-      "id": "3c60c4878a2913c904b723ba75226c3701a6bd091ce4c0d4bac465778c169eff",
-      "label": "Holroyd - dev PC"
+      "id": "0000000000000000000000000000000000000000000000000000000000000000",
+      "label": "Placeholder - not a real computer"
     }
   ]
 }
