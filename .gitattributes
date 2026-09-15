@@ -1,0 +1,4 @@
+# allowlist.json is signed over its exact bytes. If git converted line endings,
+# the signature would stop matching and every computer would be locked out.
+# Never let git alter any file in this repo.
+* -text
